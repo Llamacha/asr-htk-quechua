@@ -1,5 +1,4 @@
-## Quechua ASR using HMM
-### PUCP, Lima, Peru
+## Automatic Speech Recognition of Quechua Language Using HMM Toolkit
 
 
 #### IMPORTANT FOREWORD
