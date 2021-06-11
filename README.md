@@ -1,4 +1,10 @@
-## Automatic Speech Recognition of Quechua Language Using HMM Toolkit
+Automatic Speech Recognition of Quechua Language Using HMM Toolkit
+==================
+
+
+.. image:: https://readthedocs.org/projects/deepspeech/badge/?version=latest
+   :target: https://deepspeech.readthedocs.io/?badge=latest
+   :alt: Documentation
 
 
 #### IMPORTANT FOREWORD
