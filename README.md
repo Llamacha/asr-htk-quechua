@@ -2,9 +2,7 @@ Automatic Speech Recognition of Quechua Language Using HMM Toolkit
 ==================================================================
 
 
-.. image:: https://readthedocs.org/projects/deepspeech/badge/?version=latest
-   :target: https://deepspeech.readthedocs.io/?badge=latest
-   :alt: Documentation
+[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
 
 DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on `Baidu's Deep Speech research paper <https://arxiv.org/abs/1412.5567>`_. Project DeepSpeech uses Google's `TensorFlow <https://www.tensorflow.org/>`_ to make the implementation easier.
