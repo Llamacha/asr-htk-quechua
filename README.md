@@ -15,11 +15,9 @@ Para descargar el último modelo pre-entrenado para utilizarlo, lo puedes encont
 
 La documentación para la instalación, uso y entrenamiento del modelo lo puedes encontrar en esta sección.
 
-| Type                            | Platforms                               |
+| Tipo                            | Plataforma                              |
 | ------------------------------- | --------------------------------------- |
-| :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
-| :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
+| :bookmark_tabs: **Documento**   | [Documentación](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
 
 
 ## Modelo pre-entrenado
