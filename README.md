@@ -39,11 +39,9 @@ Para descargar el último modelo pre-entrenado, lo puedes encontrar en esta secc
 En esta sección puedes encontrar el mejor resultado logrado.
 
 
-| Type                            | Platforms                               |
-| ------------------------------- | --------------------------------------- |
-| :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
-| :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
+| Publicado | Paper | Arquitectura | WER   | Estado |
+| --------- | ----- | ------------ | ----- | ------ |
+| 2019      | [Automatic Speech Recognition of Quechua Language Using HMM Toolkit](https://link.springer.com/chapter/10.1007/978-3-030-46140-9_6) | Gaussian Triphone Tied (13 MFCC) | 12.70% |  :trophy: |
 
 
 
