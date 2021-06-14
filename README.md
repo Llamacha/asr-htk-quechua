@@ -52,21 +52,19 @@ Nos gustaría que puedas apoyarnos a mejorar el modelo ASR para el quechua sure�
 | Tipo                            | Plataforma                               |
 | ------------------------------- | --------------------------------------- |
 | :loudspeaker: **Discución General**     | [Grupo en Slack](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :thinking: **Cómo contribuir?**       | [Documento]()                              |
+| :thinking: **¿Cómo contribuir?**       | [Documento]()                              |
 | :bug: **Problemas y bugs** | [GitHub Issue Tracker](https://github.com/rjzevallos/churana/issues)                 |
 
 
 
-## Contacto
+## Ayuda y Contacto
 
-Si deseas contactarnos, por favor sientente libre de escribirnos por los siguientes medios.
+En caso tengas preguntas o deseas contactarnos, por favor sientente libre de escribirnos por los siguientes medios.
 
-| Type                            | Platforms                               |
+| Tipo                            | Plataforma                              |
 | ------------------------------- | --------------------------------------- |
-| :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
-| :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
-
+| :question: **FAQ**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :e-mail: **Contacto**       | [Email](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
 
 
 
