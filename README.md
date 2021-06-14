@@ -49,12 +49,12 @@ En esta sección puedes encontrar el mejor resultado logrado.
 
 ## Contribuir
 
-Nos gustaría pueda apoyarnos a mejorar el modelo ASR para el quechua sureño.
+Nos gustaría que puedas apoyarnos a mejorar el modelo ASR para el quechua sureño.
 
 | Tipo                            | Plataforma                               |
 | ------------------------------- | --------------------------------------- |
-| :speech_balloon: **Discución General**     | [Grupo en Slack](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :sparkles: **Cómo contribuir?**       | [Documento]()                              |
+| :loudspeaker: **Discución General**     | [Grupo en Slack](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :thinking: **Cómo contribuir?**       | [Documento]()                              |
 | :bug: **Problemas y bugs** | [GitHub Issue Tracker](https://github.com/rjzevallos/churana/issues)                 |
 
 
