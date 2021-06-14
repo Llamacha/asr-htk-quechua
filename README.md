@@ -2,7 +2,7 @@ Transcriptor Automático del habla Quechua Usando la herramienta HTK
 ====================================================================
 
 
-[![Docs](https://img.shields.io/badge/documento-passing-blue)]() [![Docs](https://img.shields.io/badge/corpus-quechua-yellowgreen)]() [![Docs](https://img.shields.io/badge/idioma-inglés-green)](ENGLISH.md)
+[![Documentation Status](https://readthedocs.org/projects/asr-htk-quechua/badge/?version=latest)](https://asr-htk-quechua.readthedocs.io/en/latest/?badge=latest) [![Docs](https://img.shields.io/badge/corpus-quechua-yellowgreen)]() [![Docs](https://img.shields.io/badge/idioma-inglés-green)](ENGLISH.md)
 
 
 El transcriptor automático del habla (ASR) quechua esta construido con la herramienta [HTK](https://htk.eng.cam.ac.uk). El ASR fue entrenado utilizando [Siminchik-corpus](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf) del quechua sureño desarollado por el proyecto [Siminchikkunarayku](https://www.siminchikkunarayku.pe).
@@ -14,7 +14,7 @@ La documentación para la instalación, uso y entrenamiento del modelo lo puedes
 
 | Tipo                            | Enlace                              |
 | ------------------------------- | --------------------------------------- |
-| :bookmark_tabs: **Guía**   | [Documento](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :bookmark_tabs: **Guía**   | [Documento](https://readthedocs.org/projects/asr-htk-quechua/badge/?version=latest)                  |
 
 
 ## Modelo pre-entrenado
@@ -56,7 +56,7 @@ En caso tengas preguntas o deseas contactarnos, por favor sientente libre de esc
 
 | Tipo                            | Plataforma                              |
 | ------------------------------- | --------------------------------------- |
-| :question: **FAQ**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :question: **FAQ**     | [Documento](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
 | :e-mail: **Contacto**       | [Email](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
 
 
