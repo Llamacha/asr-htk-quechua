@@ -51,11 +51,11 @@ En esta sección puedes encontrar el mejor resultado logrado.
 
 Nos gustaría pueda apoyarnos a mejorar el modelo ASR para el quechua sureño.
 
-| Type                            | Platforms                               |
+| Tipo                            | Plataforma                               |
 | ------------------------------- | --------------------------------------- |
-| :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
-| :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
+| :speech_balloon: **Discución General**     | [Grupo en Slack](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :sparkles: **Cómo contribuir?**       | [Documento]()                              |
+| :raising_hand: **Problemas y bugs** | [GitHub Issue Tracker](https://github.com/rjzevallos/churana/issues)                 |
 
 
 
