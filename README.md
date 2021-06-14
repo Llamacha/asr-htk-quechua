@@ -14,7 +14,7 @@ La documentación para la instalación, uso y entrenamiento del modelo lo puedes
 
 | Tipo                            | Enlace                              |
 | ------------------------------- | --------------------------------------- |
-| :bookmark_tabs: **Guía**   | [Documento](https://readthedocs.org/projects/asr-htk-quechua/badge/?version=latest)                  |
+| :bookmark_tabs: **Guía**   | [Documento](https://asr-htk-quechua.readthedocs.io/es/latest/?badge=latest)                 |
 
 
 ## Modelo pre-entrenado
