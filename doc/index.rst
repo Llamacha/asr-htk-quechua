@@ -5,7 +5,5 @@ En este apartado encontrarás todo lo necesario para poder instalar, usar y entr
 
 Para poder instalar y usar el modelo, debes hacer los siguientes pasos:
 
-.. code-block:: bash
-
-   # Create and activate a virtualenv
+https://htk.eng.cam.ac.uk/download.shtml
 
