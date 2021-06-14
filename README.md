@@ -2,7 +2,7 @@ Transcriptor Automático del habla Quechua Usando la herramienta HTK
 ====================================================================
 
 
-[![Documentation Status](https://readthedocs.org/projects/asr-htk-quechua/badge/?version=latest)](https://asr-htk-quechua.readthedocs.io/en/latest/?badge=latest) [![Docs](https://img.shields.io/badge/corpus-quechua-yellowgreen)]() [![Docs](https://img.shields.io/badge/idioma-inglés-green)](ENGLISH.md)
+[![Documentation Status](https://readthedocs.org/projects/asr-htk-quechua/badge/?version=latest)](https://asr-htk-quechua.readthedocs.io/es/latest/?badge=latest) [![Docs](https://img.shields.io/badge/corpus-quechua-yellowgreen)]() [![Docs](https://img.shields.io/badge/idioma-inglés-green)](ENGLISH.md)
 
 
 El transcriptor automático del habla (ASR) quechua esta construido con la herramienta [HTK](https://htk.eng.cam.ac.uk). El ASR fue entrenado utilizando [Siminchik-corpus](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf) del quechua sureño desarollado por el proyecto [Siminchikkunarayku](https://www.siminchikkunarayku.pe).
