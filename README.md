@@ -55,7 +55,7 @@ Nos gustaría pueda apoyarnos a mejorar el modelo ASR para el quechua sureño.
 | ------------------------------- | --------------------------------------- |
 | :speech_balloon: **Discución General**     | [Grupo en Slack](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
 | :sparkles: **Cómo contribuir?**       | [Documento]()                              |
-| :raising_hand: **Problemas y bugs** | [GitHub Issue Tracker](https://github.com/rjzevallos/churana/issues)                 |
+| :bug: **Problemas y bugs** | [GitHub Issue Tracker](https://github.com/rjzevallos/churana/issues)                 |
 
 
 
