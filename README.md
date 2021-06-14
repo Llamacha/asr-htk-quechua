@@ -47,15 +47,27 @@ En esta sección puedes encontrar el mejor resultado logrado.
 
 
 
-## 
+## Contribuir
 
-La documentación para la instalación, uso y entrenamiento del modelo lo puedes encontrar en [CONTRIBUTING.rst](CONTRIBUTING.rst)
+Nos gustaría pueda apoyarnos a mejorar el modelo ASR para el quechua sureño.
 
-##
+| Type                            | Platforms                               |
+| ------------------------------- | --------------------------------------- |
+| :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
+| :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
 
-Si deseas contactar con el proyecto o dar información, por favor ver [SUPPORT.rst](SUPPORT.rst)
 
 
+## Contacto
+
+Si deseas contactarnos, por favor sientente libre de escribirnos por los siguientes medios.
+
+| Type                            | Platforms                               |
+| ------------------------------- | --------------------------------------- |
+| :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
+| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
+| :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
 
 
 
