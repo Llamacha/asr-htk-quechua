@@ -1,14 +1,9 @@
-.. DeepSpeech documentation master file, created by
-   sphinx-quickstart on Thu Feb  2 21:20:39 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Bienvenido a la documentación del ASR del quechua!
+==================================================
 
-Welcome to ASR's documentation!
-======================================
+En este apartado encontrarás todo lo necesario para poder instalar, usar y entrenar tu propio modelo del ASR del quechua sureño.  
 
-DeepSpeech is an open source Speech-To-Text engine, using a model trained by machine learning techniques based on `Baidu's Deep Speech research paper <https://arxiv.org/abs/1412.5567>`_. Project DeepSpeech uses Google's `TensorFlow <https://www.tensorflow.org/>`_ to make the implementation easier.
-
-To install and use DeepSpeech all you have to do is:
+Para poder instalar y usar el modelo, debes hacer los siguientes pasos:
 
 .. code-block:: bash
 
